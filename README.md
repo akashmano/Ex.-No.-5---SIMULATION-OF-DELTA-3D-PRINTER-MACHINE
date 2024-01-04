@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 27.05.2023
+### DATE: 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -32,8 +32,8 @@
 ## Output:
 ![EX5](https://github.com/JEGADEESH07/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113497131/5f5a7334-2869-4b7c-937d-947b124ba199)
 
-### Name: ABISHEK XAVIER A
-### Register Number: 212222230004
+### Name: Akash M
+### Register Number: 212223240003
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
